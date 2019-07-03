@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://southswordsman.github.io/bookshelf/</id>
     <title>Gridea</title>
-    <updated>2019-07-02T07:00:53.709Z</updated>
+    <updated>2019-07-03T03:19:01.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://southswordsman.github.io/bookshelf/"/>
     <link rel="self" href="https://southswordsman.github.io/bookshelf//atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://southswordsman.github.io/bookshelf//post/tags">
         </link>
         <updated>2019-07-02T06:46:02.000Z</updated>
-        <content type="html"><![CDATA[<p>当power bi 创建查询后， 如果条目多，系统无法导出全部的条目， 这个问题有什么解决办法吗？</p>
+        <content type="html"><![CDATA[<p><img src="https://southswordsman.github.io/bookshelf//post-images/1562123927898.png" alt="">当power bi 创建查询后， 如果条目多，系统无法导出全部的条目， 这个问题有什么解决办法吗？</p>
 ]]></content>
     </entry>
     <entry>
